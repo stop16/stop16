@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/pytorch-ee4c2c.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -50,5 +49,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white" />&nbsp
 </div>
